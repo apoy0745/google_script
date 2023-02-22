@@ -1,0 +1,3 @@
+memahami script google
+coba membuat aplikasi
+intergrasikan dengan perangkat hardware/Iot
